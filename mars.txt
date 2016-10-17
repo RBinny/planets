@@ -1,2 +1,3 @@
 Mars is one of the planets in the solar system. There are nine planets 
-(counting pluto!) 
+(counting pluto!). Its colour is red (at least that's how it's shown on 
+tv.  
