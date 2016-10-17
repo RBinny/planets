@@ -1,1 +1,2 @@
-Mars is one of the planets in the solar system. 
+Mars is one of the planets in the solar system. There are nine planets 
+(counting pluto!) 
